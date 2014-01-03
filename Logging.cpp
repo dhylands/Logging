@@ -22,7 +22,7 @@
 
 #include "Logging.h"
 #include "StrPrintf.h"
-#include "WProgram.h"
+#include "Arduino.h"
 
 Logging Log;
 
